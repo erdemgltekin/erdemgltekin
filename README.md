@@ -28,4 +28,4 @@ I build web applications with an AI-native workflow. I plan the requirements and
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/kadir-erdem-g%C3%BCltekin-27a090282/) · erdemgltekin@icloud.com
+[LinkedIn](https://www.linkedin.com/in/kadirerdemgultekin/) · erdemgltekin@icloud.com
