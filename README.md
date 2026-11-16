@@ -1,6 +1,6 @@
 # Hi, I'm Kadir Erdem Gültekin 👋
 
-**Junior Full-Stack Developer · AI-Native Development**
+**Junior Full-Stack Developer · AI-Native Development**<br>
 ASP.NET Core · C# · MS SQL Server · JavaScript — Istanbul, Türkiye
 
 I build web applications with an AI-native workflow. I plan the requirements and architecture, guide AI coding tools (Claude Code, Cursor, Antigravity), then test the result and put it live. I started software development in April 2026 and have shipped real projects for real clients since then.
@@ -21,10 +21,10 @@ I build web applications with an AI-native workflow. I plan the requirements and
 
 ## 🛠️ Tech Stack
 
-**Back-end:** ASP.NET Core (MVC, Razor Pages) · C# · Entity Framework Core
-**Database:** Microsoft SQL Server
-**Front-end:** HTML5 · SCSS/Sass · Bootstrap · JavaScript · jQuery
-**AI & Tools:** Claude Code · Cursor · Antigravity · Git & GitHub · Figma
+- **Back-end:** ASP.NET Core (MVC, Razor Pages) · C# · Entity Framework Core
+- **Database:** Microsoft SQL Server
+- **Front-end:** HTML5 · SCSS/Sass · Bootstrap · JavaScript · jQuery
+- **AI & Tools:** Claude Code · Cursor · Antigravity · Git & GitHub · Figma
 
 ## 📫 Contact
 
