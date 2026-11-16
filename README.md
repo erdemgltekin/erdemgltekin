@@ -3,7 +3,7 @@
 **Junior Full-Stack Developer · AI-Native Development**<br>
 ASP.NET Core · C# · MS SQL Server · JavaScript — Istanbul, Türkiye
 
-I build web applications with an AI-native workflow. I plan the requirements and architecture, guide AI coding tools (Claude Code, Cursor, Antigravity), then test the result and put it live. I started software development in April 2026 and have shipped real projects for real clients since then.
+I build web applications with an AI-native workflow. I plan the requirements and architecture, guide AI coding tools (Claude Code, Cursor, Antigravity), then test the result and put it live. I started software development in January 2026 and have shipped real projects for real clients since then.
 
 🎯 **Open to junior / trainee developer roles** — Istanbul (office or hybrid) or remote.
 
